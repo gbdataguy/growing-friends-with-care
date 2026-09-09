@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Growing Friends With Care",
+    "description": "",
+    "home_page_url": "https://growingfriendswithcare.com",
+    "feed_url": "https://growingfriendswithcare.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Cara"
+    },
+    "items": [
+    ]
+}
